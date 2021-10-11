@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/background-adare-restaurant.jpg);
+}
+
+.nav {
+
+    background-color: rgba(155, 39, 39, 0);
+}
+
+.jumbotron {
+
+    background-color: rgba(211, 211, 211, 0);
+}
+.card {
+
+    background-color: rgba(155, 39, 39, 0); 
+}
+.footer {
+
+    background-color: rgba(155, 39, 39, 0);
+}
