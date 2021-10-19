@@ -1,6 +1,8 @@
 # Projet "Restaurant" 
 ## Prise en main et mise en oeuvre de Bootstrap  
 
+[Lien vers le site](https://rapphi.github.io/restaurant-css-framework/) 
+
 **Résumé :**  
 
 Ce projet m'a mis au défi de prendre en main très rapidement un framework CSS et l'appliquer à un projet de site.  
