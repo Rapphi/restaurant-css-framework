@@ -14,4 +14,6 @@ Au-delà du résultat graphique - très perfectible -, j'ai pu identifier des **
 2. Je commence à augmenter mon volume de travail à la faveur du projet JS.
 3. Le recours au groupe reste marginal et doit être optimisé.
 
-**Crédits photographiques :**
+**Crédits photographiques :**  
+1. Image générale d'arrière-plan : image libre de droit extraite du tutoriel suivant de [Daniel Walter](https://www.youtube.com/watch?v=C5QFHp1oAws).
+2. Image du logo : reprise du site [Nordikasa](https://nordikasa.com/etoile-du-nord/). Statut de copyright : inconnu.
