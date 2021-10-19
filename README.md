@@ -12,6 +12,9 @@ Au-delà du résultat graphique - très perfectible -, j'ai pu identifier des **
 3. Volonté de trouver seul les solutions plutôt que de se tourner vers le groupe.  
   
 **Update du 19 octobre :**  
+
+Remarque : 2 pages encore à réaliser ("pictures" et "restaurant")  
+ 
 1. J' utilise maintenant la doc pour solutionner des problèmes spécifiques.
 2. Je commence à augmenter mon volume de travail à la faveur du projet JS.
 3. Le recours au groupe reste marginal et doit être optimisé.
